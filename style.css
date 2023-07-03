@@ -1,21 +1,44 @@
 * {
-    font-family: 'Slackey', cursive;
+  font-family: "Slackey", cursive;
 }
-.cardContainer{
-    height: 400px;
+.cardContainer {
+  height: 400px;
 }
 
 .carouselSize {
-    height: 400px;
+  height: 400px;
 }
 /* navbar. */
-nav{
-    min-height: 100px;
+nav {
+  min-height: 100px;
 }
 
 .carouselSize {
-    height: 400px;
+  height: 400px;
 }
-.imgLogo{
-    width: 100px;
+.imgLogo {
+  width: 100px;
+}
+.jumbotron {
+  position: relative;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  height: 500px;
+}
+
+.jumbotron img {
+  object-fit: cover;
+}
+
+.jumbotron .container {
+  position: absolute;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  flex-direction: column;
+  height: 100%;
+}
+.jumbotron h1 {
+  color: white;
 }
