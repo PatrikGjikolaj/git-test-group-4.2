@@ -1,3 +1,7 @@
 * {
     font-family: 'Slackey', cursive;
 }
+
+.carouselSize {
+    height: 400px;
+}
