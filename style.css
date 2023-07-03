@@ -1,6 +1,9 @@
 * {
     font-family: 'Slackey', cursive;
 }
+.cardContainer{
+    height: 400px;
+}
 
 .carouselSize {
     height: 400px;
