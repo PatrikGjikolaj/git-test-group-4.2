@@ -4,4 +4,14 @@
 
 .carouselSize {
     height: 400px;
+/* navbar. */
+nav{
+    min-height: 100px;
+}
+
+.carouselSize {
+    height: 400px;
+}
+.imgLogo{
+    width: 100px;
 }
